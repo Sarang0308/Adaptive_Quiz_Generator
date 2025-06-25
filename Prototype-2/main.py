@@ -3,7 +3,7 @@ from faiss_store import create_faiss
 from question_generator import generate_question
 from utils import save_questions_json, save_questions_csv
 
-pdf_path = "sample2.pdf"
+pdf_path = "sample.pdf"
 text = extract_text_from_pdf(pdf_path)
 concepts = extract_concepts(text)
 context_map = enhance_context(text, concepts)

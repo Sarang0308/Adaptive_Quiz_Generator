@@ -1,0 +1,191 @@
+[
+  {
+    "type": "MCQ",
+    "question": "Which of the following is NOT a key characteristic of personalized learning?",
+    "options": [
+      "A. Adjusting the difficulty of educational content in real-time based on student performance.",
+      "B. Utilizing a single, standardized teaching method for all students.",
+      "C. Identifying individual student knowledge gaps and providing targeted remediation.",
+      "D. Delivering educational content through mediums most effective for each student."
+    ],
+    "correct_option": "B",
+    "difficulty": "Easy",
+    "numericals": []
+  },
+  {
+    "type": "MCQ",
+    "question": "Which of the following is NOT a core component of personalized learning?",
+    "options": [
+      "A. Adjusting difficulty levels in real-time based on student performance",
+      "B. Utilizing a standardized, one-size-fits-all curriculum for all students",
+      "C. Identifying individual student knowledge gaps and providing targeted remediation",
+      "D. Delivering educational content through the most effective medium for each student"
+    ],
+    "correct_option": "B",
+    "difficulty": "Easy",
+    "numericals": []
+  },
+  {
+    "type": "MCQ",
+    "question": "Which of the following is NOT a core component of personalized learning?",
+    "options": [
+      "A. Utilizing a standardized curriculum for all students.",
+      "B. Delivering educational content through mediums best suited to individual students.",
+      "C. Adjusting the difficulty of learning materials in real-time based on student performance.",
+      "D. Identifying and addressing individual student knowledge gaps through targeted remediation."
+    ],
+    "correct_option": "A",
+    "difficulty": "Easy",
+    "numericals": []
+  },
+  {
+    "type": "MCQ",
+    "question": "Which of the following is NOT a key characteristic of personalized learning?",
+    "options": [
+      "A. Adjusting difficulty levels in real-time based on student performance",
+      "B. Utilizing a single, standardized teaching method for all students",
+      "C. Identifying knowledge gaps and providing targeted remediation",
+      "D. Delivering educational content through the most effective medium for each student"
+    ],
+    "correct_option": "B",
+    "difficulty": "Easy",
+    "numericals": []
+  },
+  {
+    "type": "MCQ",
+    "question": "Which of the following BEST exemplifies the concept of 'personalized learning' as it relates to an Adaptive AI Learning Companion?",
+    "options": [
+      "A) The system identifies a student's weakness in algebra, provides targeted practice problems at the appropriate difficulty level, and adjusts the difficulty based on their performance.",
+      "B) The system delivers the same lesson plan to all students, regardless of their learning styles or prior knowledge.",
+      "C) The system uses a standardized test to assess all students' abilities and places them in predetermined learning groups.",
+      "D) The system provides a fixed set of learning materials and expects all students to complete them within a specific timeframe."
+    ],
+    "correct_option": "A",
+    "difficulty": "Medium",
+    "numericals": []
+  },
+  {
+    "type": "FIB",
+    "question": "A key advantage of personalized learning, enabled by technologies like the Adaptive AI Learning Companion, is its ability to _______________, ensuring that educational content and difficulty levels are tailored to individual student needs and progress.",
+    "options": [
+      "A. identify knowledge gaps and provide targeted remediation, adjusting difficulty levels in real-time based on performance metrics",
+      "B. deliver all educational content exclusively through video lectures for optimal engagement",
+      "C. standardize learning paths for all students to ensure equitable outcomes",
+      "D. solely focus on standardized testing preparation to improve overall test scores"
+    ],
+    "correct_option": "A",
+    "difficulty": "Medium",
+    "numericals": []
+  },
+  {
+    "type": "MCQ",
+    "question": "Which of the following is NOT a core element of personalized learning?",
+    "options": [
+      "A. Utilizing a standardized curriculum for all students.",
+      "B. Delivering educational content through mediums best suited to individual learners.",
+      "C. Adjusting the difficulty of learning materials based on student performance.",
+      "D. Identifying and addressing individual student knowledge gaps."
+    ],
+    "correct_option": "A",
+    "difficulty": "Easy",
+    "numericals": []
+  },
+  {
+    "type": "TF",
+    "question": "Personalized learning involves adjusting the difficulty level of educational content in real-time based on a student's performance.",
+    "correct_option": "True",
+    "difficulty": "Easy",
+    "numericals": []
+  },
+  {
+    "type": "MCQ",
+    "question": "Which of the following is NOT a key characteristic of personalized learning?",
+    "options": [
+      "A. Adjusting the difficulty of educational content based on student performance.",
+      "B. Utilizing a single, standardized teaching method for all students.",
+      "C. Identifying and addressing individual student knowledge gaps.",
+      "D. Delivering educational content through mediums best suited to each student's learning style."
+    ],
+    "correct_option": "B",
+    "difficulty": "Easy",
+    "numericals": []
+  },
+  {
+    "type": "MCQ",
+    "question": "Which of the following is NOT a key characteristic of personalized learning?",
+    "options": [
+      "A. Utilizing a one-size-fits-all approach to instruction",
+      "B. Adapting the difficulty of content based on student performance",
+      "C. Identifying and addressing individual student knowledge gaps",
+      "D. Delivering educational content through various media suited to individual learning styles"
+    ],
+    "correct_option": "A",
+    "difficulty": "Easy",
+    "numericals": []
+  },
+  {
+    "type": "MCQ",
+    "question": "Which of the following is NOT a core element of personalized learning as facilitated by an intelligent tutoring system like the Adaptive AI Learning Companion?",
+    "options": [
+      "A.  Maintaining a fixed curriculum and pace for all students.",
+      "B.  Delivering educational content via the most effective medium for each student.",
+      "C.  Identifying knowledge gaps and providing targeted remediation.",
+      "D.  Adjusting difficulty levels in real-time based on student performance."
+    ],
+    "correct_option": "A",
+    "difficulty": "Hard",
+    "numericals": []
+  },
+  {
+    "type": "MCQ",
+    "question": "Which of the following is NOT a core component of personalized learning as described?",
+    "options": [
+      "A. Adjusting the difficulty level of educational content in real-time based on student performance.",
+      "B. Utilizing a single, standardized teaching method for all students.",
+      "C. Identifying individual student knowledge gaps and providing targeted remediation.",
+      "D. Tracking student progress and providing actionable insights to students and educators."
+    ],
+    "correct_option": "B",
+    "difficulty": "Easy",
+    "numericals": []
+  },
+  {
+    "type": "MCQ",
+    "question": "Which of the following is NOT a core component of personalized learning as described in the provided context?",
+    "options": [
+      "A. Utilizing standardized assessments to evaluate all students equally.",
+      "B. Adapting the difficulty of learning materials based on student performance.",
+      "C. Identifying individual student knowledge gaps and providing targeted support.",
+      "D. Delivering educational content through the most effective medium for each learner."
+    ],
+    "correct_option": "A",
+    "difficulty": "Easy",
+    "numericals": []
+  },
+  {
+    "type": "MCQ",
+    "question": "Which of the following is NOT a core element of personalized learning as it relates to the described 'Adaptive AI Learning Companion'?",
+    "options": [
+      "A.  Ignoring student performance metrics to maintain a standardized learning path.",
+      "B.  Providing targeted remediation to address identified knowledge gaps.",
+      "C.  Delivering educational content through the most effective medium for each student.",
+      "D.  Adjusting difficulty levels in real-time based on student performance."
+    ],
+    "correct_option": "A",
+    "difficulty": "Hard",
+    "numericals": []
+  },
+  {
+    "type": "MCQ",
+    "question": "Which of the following is NOT a key characteristic of personalized learning?",
+    "options": [
+      "A. Utilizing a standardized curriculum for all students.",
+      "B. Delivering educational content through various media tailored to individual learning preferences.",
+      "C. Adjusting the difficulty of learning materials in response to student performance.",
+      "D. Identifying and addressing individual student knowledge gaps through targeted remediation."
+    ],
+    "correct_option": "A",
+    "difficulty": "Easy",
+    "numericals": []
+  }
+]

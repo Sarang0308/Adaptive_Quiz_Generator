@@ -1,4 +1,10 @@
-.env
+# Python
 __pycache__/
 *.py[cod]
+.env
+uploads/
 faiss_index/
+
+# Node
+node_modules/
+dist/

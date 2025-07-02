@@ -41,3 +41,17 @@ def is_valid_expr(expr):
         return True
     except SympifyError:
         return False
+
+def enhance_concepts_with_context(text, concepts):
+    import spacy
+    nlp = spacy.load("en_core_web_sm")
+    doc = nlp(text)
+    enriched_concepts = {}
+
+    for concept in concepts:
+        for sent in doc.sents:
+            if concept in sent.text:
+                enriched_concepts[concept] = sent.text.strip()
+                break
+
+    return enriched_concepts

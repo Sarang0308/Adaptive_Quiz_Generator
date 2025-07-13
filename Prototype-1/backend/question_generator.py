@@ -77,8 +77,10 @@ Concepts:
 {type_instruction[q_type]}
 
 Ensure academic relevance and clarity.
-
+ 
 {formatting[q_type]}
+
+Also use different approaches to make a different question each time 
 """
 
 def generate_question(faiss_store, numericals, difficulty, q_type="MCQ"):

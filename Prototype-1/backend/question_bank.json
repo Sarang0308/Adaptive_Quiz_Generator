@@ -1,0 +1,164 @@
+[
+  {
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "According to the provided text, what is a tenant prohibited from doing on the premises?",
+    "options": [
+      "A) Hosting parties",
+      "B) Storing hazardous goods",
+      "C) Decorating their apartment",
+      "D) Having guests"
+    ],
+    "correct_option": "B"
+  },
+  {
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "What happens to a tenant's security deposit if they vacate before the lock-in period ends?",
+    "options": [
+      "A) It is fully refunded.",
+      "B) It is partially refunded.",
+      "C) It is not refunded.",
+      "D) It is transferred to the next tenant."
+    ],
+    "correct_option": "C"
+  },
+  {
+    "type": "TF",
+    "difficulty": "Medium",
+    "question": "Tenants are allowed to cause a nuisance to their neighbors.",
+    "correct_option": "False"
+  },
+  {
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "question": "The text implies that the security deposit is intended to:",
+    "options": [
+      "A) Cover routine maintenance costs.",
+      "B) Cover damages caused by the tenant.",
+      "C) Guarantee the tenant's compliance with the lease.",
+      "D) Cover the landlord's legal fees."
+    ],
+    "correct_option": "C"
+  },
+  {
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "question": "A tenant leaving before the lease ends could potentially face:",
+    "options": [
+      "A) A fine.",
+      "B) Loss of their security deposit.",
+      "C) Eviction.",
+      "D) Both B and C"
+    ],
+    "correct_option": "D"
+  },
+  {
+    "type": "FIB",
+    "difficulty": "Hard",
+    "question": "The lease explicitly states that premature vacating results in the forfeiture of the _______.",
+    "options": [
+      "A) Rent payments",
+      "B) Lease agreement",
+      "C) Security deposit",
+      "D) Property rights"
+    ],
+    "correct_option": "C"
+  },
+  {
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "Considering the clause about nuisances, a tenant repeatedly playing loud music late at night could be considered a breach of contract because it constitutes:",
+    "options": [
+      "A) A breach of privacy.",
+      "B) An act of vandalism.",
+      "C) A form of harassment and annoyance.",
+      "D) A safety hazard."
+    ],
+    "correct_option": "C"
+  },
+  {
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "If a tenant stores illegal goods and is subsequently evicted,  which of the following is LEAST likely to happen regarding their security deposit?",
+    "options": [
+      "A) It will be forfeited.",
+      "B) It will be partially refunded.",
+      "C) They may face legal consequences.",
+      "D) The landlord will be obligated to return the security deposit."
+    ],
+    "correct_option": "D"
+  },
+  {
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "The tenant is responsible for ensuring they do not cause annoyance to whom?",
+    "options": [
+      "A) Only other tenants.",
+      "B) Only neighbours.",
+      "C) Other tenants and neighbours.",
+      "D) Landlord only."
+    ],
+    "correct_option": "C"
+  },
+  {
+    "type": "TF",
+    "difficulty": "Medium",
+    "question": "The text explicitly mentions a specific monetary penalty for breaking the lease early.",
+    "correct_option": "False"
+  },
+  {
+    "type": "MCQ",
+    "difficulty": "Hard",
+    "question": "Interpreting the provided text,  the concept of 'nuisance' likely excludes:",
+    "options": [
+      "A) Excessive noise.",
+      "B) Illegal activities.",
+      "C) Occasional minor inconveniences.",
+      "D) Consistent disruptive behaviour."
+    ],
+    "correct_option": "C"
+  },
+  {
+    "type": "MCQ",
+    "difficulty": "Medium",
+    "question": "The lock-in period refers to:",
+    "options": [
+      "A) The time a tenant must live in the property before they can sublet.",
+      "B) The minimum duration of the lease agreement.",
+      "C) The time it takes to process security deposit refunds.",
+      "D) The time frame for reporting maintenance issues."
+    ],
+    "correct_option": "B"
+  },
+  {
+    "type": "MCQ",
+    "difficulty": "Easy",
+    "question": "What is the consequence if the tenant stores hazardous goods on the premise?",
+    "options": [
+      "A) A warning letter.",
+      "B) Immediate eviction.",
+      "C) Fine",
+      "D) The text does not specify a consequence."
+    ],
+    "correct_option": "D"
+  },
+  {
+    "type": "TF",
+    "difficulty": "Hard",
+    "question": "Based solely on the provided text, a tenant could potentially reclaim their security deposit if they leave due to unforeseen circumstances, such as a job relocation, before the lease is over.",
+    "correct_option": "False"
+  },
+  {
+    "type": "FIB",
+    "difficulty": "Medium",
+    "question": "The tenant is obligated to avoid causing ______ to other tenants and neighbours.",
+    "options": [
+      "A) Damage",
+      "B) Financial loss",
+      "C) Nuisance",
+      "D) Inconvenience"
+    ],
+    "correct_option": "C"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "MCQ",
+    "question": "A web intelligence tool extracts data from a well-structured website.  Which of the following is NOT a typical performance metric for such a tool?",
+    "options": [
+      "A. Extraction Time",
+      "B. Accuracy of field parsing",
+      "C. Export Success Rate",
+      "D. Number of CAPTCHAs solved per hour"
+    ],
+    "correct_option": "D"
+  },
+  {
+    "type": "TrueFalse",
+    "question": "The data extraction tool achieved 100% export success rate when field mapping was correct.",
+    "answer": "True"
+  },
+  {
+    "type": "FillBlank",
+    "question": "Data extraction from well-structured websites can achieve an accuracy of approximately ___%, but faces limitations with JavaScript-heavy content and CAPTCHAs.",
+    "answer": "95",
+    "difficulty": "easy"
+  },
+  {
+    "type": "MCQ",
+    "question": "A web intelligence system for data extraction boasts an accuracy of ~95% on well-structured websites and an export success rate of 100% with correct field mapping.  However, it struggles with JavaScript-heavy content and CAPTCHAs without employing third-party services. Considering these limitations, what is the MOST likely impact on the system's overall effectiveness if it is applied to a website with extensive use of JavaScript and frequent CAPTCHA implementation, resulting in a -5% reduction in overall accuracy and a 10% failure rate in exports?",
+    "options": [
+      "A) The system's effectiveness will be significantly reduced, as the accuracy drops to ~90% and the export success rate to 90%, highlighting the need for improvements in handling JavaScript and CAPTCHAs.",
+      "B) The system's effectiveness will remain largely unchanged, as the core functionalities remain operational despite the minor reduction in accuracy and export success.",
+      "C) The system's effectiveness will improve slightly as the challenges posed by JavaScript and CAPTCHAs are minor compared to its overall performance on well-structured sites.",
+      "D) The impact is negligible and won't affect the usability of the system for any practical application."
+    ],
+    "correct_option": "A"
+  },
+  {
+    "type": "TrueFalse",
+    "question": "Given the stated limitations of the data extraction tool (handling JavaScript-heavy content and overcoming CAPTCHA without third-party services), achieving a 100% export success rate for all websites is realistically attainable.",
+    "answer": "False"
+  },
+  {
+    "type": "FillBlank",
+    "question": "While achieving an export success rate of 100% with correct field mapping, the data extraction tool demonstrated limitations in handling JavaScript-heavy content and overcoming CAPTCHAs without the use of third-party services, resulting in an overall efficiency score of approximately -5 on a scale measuring effectiveness.  This highlights the challenges in achieving completely automated ______ from complex websites.",
+    "answer": "data extraction",
+    "difficulty": "Medium"
+  },
+  {
+    "type": "MCQ",
+    "question": "A web intelligence system designed for data extraction boasts an average extraction time of 1-2 seconds per page and a 95% accuracy rate for field parsing on well-structured websites.  However, it encounters limitations when processing JavaScript-heavy content and CAPTCHAs without employing third-party services.  Considering a scenario where a researcher needs to extract data from 1000 pages, 5% of which are JavaScript-heavy and protected by CAPTCHAs that cannot be bypassed without external tools, what is the *approximate* total processing time, assuming a uniform distribution of JavaScript-heavy pages and a complete failure to process the CAPTCHA-protected pages, resulting in an effective -5 second penalty for each failure (representing time spent on manual intervention)?",
+    "options": [
+      "A. Approximately 2000 seconds",
+      "B. Approximately 2050 seconds",
+      "C. Approximately 2250 seconds",
+      "D. Approximately 2500 seconds"
+    ],
+    "correct_option": "C"
+  },
+  {
+    "type": "TrueFalse",
+    "question": "Given a web intelligence system achieving 95% accuracy in field parsing on well-structured websites and a 100% export success rate with correct field mapping, but experiencing limitations with JavaScript-heavy content and CAPTCHA circumvention without third-party services,  a hypothetical -5% decrease in extraction time (from an average of 1-2 seconds per page) would definitively result in a net improvement of overall system performance, assuming all other metrics remain constant and the negative impact on JavaScript handling and CAPTCHA remains unchanged.",
+    "answer": "False"
+  },
+  {
+    "type": "FillBlank",
+    "question": "Considering the limitations of the described data extraction tool, a -5 rating on a scale of 1 to 10 (10 being perfect) for its robustness against dynamically generated content (JavaScript-heavy websites and CAPTCHAs) would accurately reflect its current __________, highlighting the need for future improvements to handle such challenges without relying on third-party services.",
+    "answer": "capability",
+    "difficulty": "hard"
+  }
+]

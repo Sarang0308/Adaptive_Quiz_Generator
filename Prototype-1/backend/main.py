@@ -18,8 +18,8 @@ app.add_middleware(
 )
 
 @app.post("/api/upload")
-async def upload(file: UploadFile):
-    return upload_pdf_and_create_quiz(file)
+async def upload(file: UploadFile, total_questions: int = Form(...)):  # 👈 updated
+    return upload_pdf_and_create_quiz(file, total_questions) 
 
 @app.get("/api/quiz/{quiz_id}")
 def quiz_exists(quiz_id: str):

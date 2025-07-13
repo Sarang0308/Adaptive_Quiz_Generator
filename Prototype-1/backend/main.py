@@ -36,3 +36,7 @@ async def answer(
     answer: str = Form(...)
 ):
     return submit_answer(quiz_id, student_id, answer)
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
